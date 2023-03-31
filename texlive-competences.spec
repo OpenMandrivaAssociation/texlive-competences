@@ -1,6 +1,6 @@
 Name:		texlive-competences
 Version:	47573
-Release:	1
+Release:	2
 Summary:	Track skills of classroom checks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/competences
