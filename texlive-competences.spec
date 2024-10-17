@@ -3,7 +3,7 @@ Version:	47573
 Release:	2
 Summary:	Track skills of classroom checks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/competences
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/competences
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/competences.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/competences.doc.r%{version}.tar.xz
